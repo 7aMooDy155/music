@@ -1,0 +1,76 @@
+{
+    "songs": [
+      {
+        "bg": "#c9bea28f",
+        "artist": "Ahmed Saad",
+        "songName": "Ya 3araf",
+        "files": {
+          "song": "https://github.com/7aMooDy155/music/raw/main/1.mp3",
+          "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
+        }
+      },
+      {
+        "bg": "#0896eba1",
+        "artist": "Flex",
+        "songName": "FL EX - MESAMA3EEN FT",
+        "files": {
+          "song": "https://github.com/7aMooDy155/music/raw/main/2.mp3",
+          "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
+        }
+      },
+      {
+        "bg": "#ebbe03",
+        "artist": "Cairokee",
+        "songName": "Kan Lak Maaya",
+        "files": {
+         "song": "https://github.com/7aMooDy155/music/raw/main/3.mp3",
+         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+        }
+      },
+      {
+        "bg": "#ffc382",
+        "artist": "Essam Sasa",
+        "songName": "Ana Ba3sh2ny",
+        "files": {
+        "song": "https://github.com/7aMooDy155/music/raw/main/4.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+        }
+      },
+      {
+        "bg": "#ffcbdc",
+        "artist": "Ahmed Sheba",
+        "songName": "El Alb Galo Hebot",
+        "files": {
+        "song": "https://github.com/7aMooDy155/music/raw/main/6.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+        }
+      },
+      {
+        "bg": "#44c16fb5",
+        "artist": "Mohammed Saeed",
+        "songName": "2alo 3aleky",
+        "files": {
+        "song": "https://github.com/7aMooDy155/music/raw/main/7.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+        }
+      },
+      {
+        "bg": "#ff4545",
+        "artist": "Seif",
+        "songName": "El 3omr ra7 Gmayel",
+        "files": {
+        "song": "https://github.com/7aMooDy155/music/raw/main/8.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+        }
+      },
+      {
+        "bg": "#e5e7e9",
+        "artist": "Billie Eilish",
+        "songName": "Everything I Wanted",
+        "files": {
+        "song": "https://github.com/7aMooDy155/music/raw/main/5.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+        }
+      }
+    ]
+  }
