@@ -5,7 +5,7 @@
         "artist": "Ahmed Saad",
         "songName": "Ya 3araf",
         "files": {
-          "song": "https://github.com/7aMooDy155/music/raw/main/1.mp3",
+          "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/1.mp3",
           "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
         }
       },
@@ -14,7 +14,7 @@
         "artist": "Flex",
         "songName": "FL EX - MESAMA3EEN FT",
         "files": {
-          "song": "https://github.com/7aMooDy155/music/raw/main/2.mp3",
+          "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/2.mp3",
           "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
         }
       },
@@ -23,7 +23,7 @@
         "artist": "Cairokee",
         "songName": "Kan Lak Maaya",
         "files": {
-         "song": "https://github.com/7aMooDy155/music/raw/main/3.mp3",
+         "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/3.mp3",
          "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
         }
       },
@@ -32,7 +32,7 @@
         "artist": "Essam Sasa",
         "songName": "Ana Ba3sh2ny",
         "files": {
-        "song": "https://github.com/7aMooDy155/music/raw/main/4.mp3",
+        "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/4.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
         }
       },
@@ -41,7 +41,7 @@
         "artist": "Ahmed Sheba",
         "songName": "El Alb Galo Hebot",
         "files": {
-        "song": "https://github.com/7aMooDy155/music/raw/main/6.mp3",
+        "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/6.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
         }
       },
@@ -50,7 +50,7 @@
         "artist": "Mohammed Saeed",
         "songName": "2alo 3aleky",
         "files": {
-        "song": "https://github.com/7aMooDy155/music/raw/main/7.mp3",
+        "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/7.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
         }
       },
@@ -59,7 +59,7 @@
         "artist": "Seif",
         "songName": "El 3omr ra7 Gmayel",
         "files": {
-        "song": "https://github.com/7aMooDy155/music/raw/main/8.mp3",
+        "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/8.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
         }
       },
@@ -68,7 +68,7 @@
         "artist": "Billie Eilish",
         "songName": "Everything I Wanted",
         "files": {
-        "song": "https://github.com/7aMooDy155/music/raw/main/5.mp3",
+        "song": "https://raw.githubusercontent.com/7aMooDy155/music/main/5.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
         }
       }
